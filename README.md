@@ -9,7 +9,7 @@ I'm a **Multiplatform Developer** with experience in **Java, Python, TypeScript,
 
 ## 🔧 Tech Stack
 - **Languages:** Java, Python, TypeScript, C/C++, Bash
-- **Frameworks & Tools:** Angular, Git
+- **Frameworks & Tools:** Angular, Git, Django
 - **Databases:** SQL, MongoDB
 - **Cloud Services:** Oracle Cloud
 - **Development Environment:** P2P Learning, Agile Methodologies
