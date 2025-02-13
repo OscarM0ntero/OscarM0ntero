@@ -4,7 +4,7 @@
 I'm a **Multiplatform Developer** with experience in **Java, Python, TypeScript, and Angular**. Passionate about software development, databases, and cloud services, I'm constantly learning and improving my skills. My international work experience has enhanced my problem-solving, adaptability, and teamwork skills. Interested in developing myself as a Cybersecurity expert.
 
 📍 Based in **Torremolinos, Málaga**  
-🎓 Currently studying **Multiplatform Application Development** at *IES Playamar* (2023-2025) 
+🎓 Currently studying **Multiplatform Application Development** at *IES Playamar* (2023-2025)  
 🎓 Former **Software Development** student at *42 Málaga* (2022-2024)
 
 ## 🔧 Tech Stack
